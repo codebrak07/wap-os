@@ -108,22 +108,6 @@ Revise concepts efficiently before exams.
 https://wap-os.vercel.app/
 
 
-# 📂 Folder Structure
-wap-os/
-│
-├── public/            # Static assets
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Application routes/pages
-│   ├── styles/        # Styling files
-│   ├── utils/         # Helper functions
-│   └── data/          # Learning content
-│
-├── package.json
-├── README.md
-└── next.config.js
-🤝 Contribution Guidelines
-
 ``` bash
 Contributions are welcome and appreciated!
 
@@ -167,6 +151,7 @@ Krish Kothari (krish-kothari)
 Student Developer & Creator of WAP OS
 GitHub: https://github.com/krish-kothari
 
+``` bash
 ⭐ Support the Project
 
 If this project helped you in your preparation:
@@ -178,3 +163,5 @@ If this project helped you in your preparation:
 🧑‍💻 Contribute improvements
 
 📢 Share with fellow students
+```
+
