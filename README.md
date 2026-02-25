@@ -100,6 +100,7 @@ Read quick revision explanations.
 Practice coding directly using the built-in compiler.
 
 Revise concepts efficiently before exams.
+```
 
 🌐 Live Demo
 
