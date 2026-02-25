@@ -156,7 +156,8 @@ Meaningful commit messages
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-# 👨‍💻 Author
+
+# 👨‍💻 Authors
 
 BRAK (codebrak07)
 Student Developer & Creator of WAP OS
