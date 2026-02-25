@@ -102,19 +102,13 @@ Practice coding directly using the built-in compiler.
 Revise concepts efficiently before exams.
 ```
 
-🌐 Live Demo
+# 🌐 Live Demo
 
 🔗 Live Website:
 https://wap-os.vercel.app/
 
-📸 Screenshots
 
-(Add screenshots after UI stabilization)
-
-![Home Page](./screenshots/home.png)
-![Topic View](./screenshots/topics.png)
-![Built-in Compiler](./screenshots/compiler.png)
-📂 Folder Structure
+# 📂 Folder Structure
 wap-os/
 │
 ├── public/            # Static assets
@@ -130,6 +124,7 @@ wap-os/
 └── next.config.js
 🤝 Contribution Guidelines
 
+``` bash
 Contributions are welcome and appreciated!
 
 How to contribute:
@@ -157,36 +152,19 @@ Please ensure:
 Clean and readable code
 
 Meaningful commit messages
-
-Consistent project structure
-
-🗺️ Future Roadmap
-
-✅ Expanded syllabus coverage
-
-✅ Improved compiler support
-
-📊 Progress tracking for students
-
-🧩 Practice quizzes & mock tests
-
-📱 Mobile optimization
-
-🌙 Dark mode
-
-👥 Collaborative student contributions
-
-📄 License
-
+```
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-BRAK (CodeBrak07)
+BRAK (codebrak07)
 Student Developer & Creator of WAP OS
-
 GitHub: https://github.com/codebrak07
+
+Krish Kothari (krish-kothari)
+Student Developer & Creator of WAP OS
+GitHub: https://github.com/krish-kothari
 
 ⭐ Support the Project
 
